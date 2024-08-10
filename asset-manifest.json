@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E_Course_Registration_Reactjs/static/css/main.f87197b8.css",
+    "main.js": "/E_Course_Registration_Reactjs/static/js/main.57f82a74.js",
+    "index.html": "/E_Course_Registration_Reactjs/index.html",
+    "main.f87197b8.css.map": "/E_Course_Registration_Reactjs/static/css/main.f87197b8.css.map",
+    "main.57f82a74.js.map": "/E_Course_Registration_Reactjs/static/js/main.57f82a74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87197b8.css",
+    "static/js/main.57f82a74.js"
+  ]
+}
